@@ -1,7 +1,6 @@
 - 👋 Ola, sou Claudio Buzzolini Sanches - @Claudio-Sanches
-- 👀 Estou retomando minhas atividades como desenvolvedor
-- 🌱 Em Set/20 iniciei curso Web Full Stack no Senai - Mariano Ferraz - Vila Leopoldina - São Paulo
-- 💞️ Desejo colaborar escrevendo e testando sistemas.
+- 👀 Estou em nova etapa como desenvolvedor
+- 🌱 Já concluí curso Web Full Stack no Senai - Mariano Ferraz - Vila Leopoldina - São Paulo
 - Em Nov/2021 iniciei o curso em AWS na Cloud Treiamentos
 - 📫 Meu e-mail claudiobuzzolini@gmail.com
 
