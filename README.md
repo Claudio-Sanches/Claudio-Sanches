@@ -1,5 +1,5 @@
 <div align="center">
-<img height="350em" src="https://github.com/Claudio-Sanches/Claudio-Sanches/blob/main/Principal.jpg"/>
+<img height="500em" src="https://github.com/Claudio-Sanches/Claudio-Sanches/blob/main/Principal.jpg"/>
 
 </div>
 
