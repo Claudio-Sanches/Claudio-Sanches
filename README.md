@@ -1,9 +1,9 @@
 <div align="center">
-<img height="500em" src="https://github.com/Claudio-Sanches/Claudio-Sanches/blob/main/Principal.jpg"/>
+<img width="100" height="100" src="https://github.com/Claudio-Sanches/Claudio-Sanches/blob/main/Principal.jpg"/>
 
 </div>
 
-![]("https://github.com/Claudio-Sanches/Claudio-Sanches/blob/main/Principal.jpg")
+
 
 
 
