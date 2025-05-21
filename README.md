@@ -1,11 +1,11 @@
 <div align="center">
-<!-- <img height="320em" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-gratis%2Fimagem-de-close-up-de-programador-trabalhando-em-sua-mesa-no-escritorio_5698344.htm&psig=AOvVaw0dSy79eY7waRvNlur7z_DI&ust=1747942305870000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCWw96mtY0DFQAAAAAdAAAAABAEf"/> -->
+<img height="350em" src="./.github/Principal.jpg"/>
 
 </div>
 
 
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-gratis%2Fimagem-de-close-up-de-programador-trabalhando-em-sua-mesa-no-escritorio_5698344.htm&psig=AOvVaw0dSy79eY7waRvNlur7z_DI&ust=1747942305870000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCWw96mtY0DFQAAAAAdAAAAABAE
+
 
 - 👋 Ola, sou Claudio Buzzolini Sanches - @Claudio-Sanches
 - 👀 Estou em nova etapa como desenvolvedor
