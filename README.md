@@ -5,10 +5,10 @@
 
 ## Sobre mim
 
-- 👋 Ola, sou Claudio Buzzolini Sanches, Graduado em Matemática, durante a pandemia consegui me formar como técnico em FullStack no Senai SP e AWS Certified Cloud Practitioner
+- 👋 Olá, sou Claudio Buzzolini Sanches, Graduado em Matemática, durante a pandemia consegui me formar como técnico em FullStack no Senai SP e AWS Certified Cloud Practitioner
 - 👀 Objetivo migrar minha carreira profissional para desenvolvedor FullStack aberto a todas as linguagens.
 - 🧑‍🎓 Em 2025 estou me reciclando na DIO.
-- 🏖️ Adoro viagens e conhecer lugares novos na compania de minha esposa e netos.
+- 🏖️ Adoro viagens e conhecer lugares novos na companhia de minha esposa e netos.
 
 
 ---------
